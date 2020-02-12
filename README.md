@@ -16,5 +16,7 @@ Reboot the Raspberry Pi:
 $ sudo reboot
 ```
 
+If everything went well, SMS messages will appear in the outbox.
+
 #### Resources
 - https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-startup/
