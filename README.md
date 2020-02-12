@@ -11,12 +11,7 @@ Enter the following command to install the script:
 $ bash -c "$(curl -fsSL raw.githubusercontent.com/brutesque/tele2-keepalive/master/install.sh)"
 ```
 
-Reboot the Raspberry Pi:
-```bash
-$ sudo reboot
-```
-
-If everything went well, SMS messages will appear in the outbox.
+If everything went well, the raspberry pi will reboot and SMS messages will appear in the outbox.
 
 #### Resources
 - https://www.dexterindustries.com/howto/run-a-program-on-your-raspberry-pi-at-startup/

@@ -17,3 +17,5 @@ sudo chmod 644 /lib/systemd/system/tele2-keepalive.service
 
 sudo systemctl daemon-reload
 sudo systemctl enable tele2-keepalive.service
+
+sudo reboot
